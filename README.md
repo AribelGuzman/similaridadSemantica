@@ -1,0 +1,2 @@
+# similaridadSemantica
+NLP project
