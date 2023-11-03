@@ -1,0 +1,17 @@
+jupyterlab 
+pandas 
+datasets 
+matplotlib 
+plotly 
+scikit-learn 
+tqdm 
+ipywidgets 
+numpy 
+spacy 
+textdistance 
+fasttext 
+gensim 
+tensorflow 
+tensorflow_hub 
+sentence-transformers 
+openai
